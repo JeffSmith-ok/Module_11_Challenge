@@ -18,8 +18,6 @@ This section divides the instructions for this Challenge into four steps and an 
 
 - Step 5 (optional): Forecast revenue by using time series models
 
-The following subsections detail these steps.
-
 ## Technologies
 
 I created it in Google Colab and I have it set to comment out the Google Colab info and reviewed it offline. If you want to use Google Colab, please uncomment out the Google Colab information included above. This was developed with Anaconda, in a development environment running Python 3.7.13, which includes Pandas, and fbprophet.
