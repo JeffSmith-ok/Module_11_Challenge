@@ -20,7 +20,7 @@ This section divides the instructions for this Challenge into four steps and an 
 
 ## Technologies
 
-I created it in Google Colab and I have it set to comment out the Google Colab info and reviewed it offline. If you want to use Google Colab, please uncomment out the Google Colab information included above. This was developed with Anaconda, in a development environment running Python 3.7.13, which includes Pandas, and fbprophet.
+I created it in Google Colab and also set it up to view it in Jupyter Lab. If you want to use it in Jupyter Lab then change the commented out sections in the forecasting_net_prophet file.
 
 ---
 
